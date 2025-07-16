@@ -1,7 +1,7 @@
 package model
 
 import (
-	"github.com/amund-fremming/common/enum"
+	"github.com/amund-fremming/gotchat-common/enum"
 )
 
 type ClientState struct {

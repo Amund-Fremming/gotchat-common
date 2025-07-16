@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/amund-fremming/common/enum"
+	"github.com/amund-fremming/gotchat-common/enum"
 )
 
 type Envelope struct {

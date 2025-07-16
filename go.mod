@@ -1,4 +1,4 @@
-module github.com/amund-fremming/common
+module github.com/amund-fremming/gotchat-common
 
 go 1.24.4
 
